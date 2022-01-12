@@ -1,5 +1,5 @@
 # Redis knowledge base
-[redis io](https://redis.io/)
+[redis.io](https://redis.io/)
 
 redis:
 
