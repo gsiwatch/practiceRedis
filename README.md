@@ -3,7 +3,7 @@
 
 redis:
 
-commands: 
+***commands:***
 1. redis-server
 2. redis-cli: the client to connect to the redis server
 3. info - to give the information related to redis
@@ -16,6 +16,16 @@ commands:
 10. info cluster: multiple redis servers
 11. info keyspace: 
 12. quit: to quit the connection
+13. SET <key> <value> <options>: for eample: SET name "gs"
+14. GET <key>: for example  GET name
+15. DEL <key>:
+16. EXISTS <key>:  
+
+
+***Datatypes that Redis support:***
+1. Redis is a key value storage
+2. 
+
 
 Redis is No SQL in Memory Server
 
