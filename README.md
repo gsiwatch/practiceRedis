@@ -1,4 +1,4 @@
-# practiceRedis
+# Redis knowledge base
 
 
 redis:
@@ -41,3 +41,5 @@ Redis - NoSQL in Memory Database, it is an open source database that is used to 
 key value store
 
 In Memory database: it is used for short lived data, it is often used with session, page hit counts. And use it when we do not care if we will loose some piece of data. It is super super fast and highly scalable.
+
+
