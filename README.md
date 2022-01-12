@@ -24,8 +24,17 @@ redis:
 
 ***Datatypes that Redis support:***
 1. Redis is a key value storage
-2. 
+2. Redis can handle 5 major data types: strings, hashes, lists, sets, and sorted sets
+  
+*** Redis Hashes ***
+HMSET <hash key> <key> <value>
+HMSET user id 45 name "Jonny"
+HGET user name
+HGETALL user
 
+*** Redis List ***
+here list is the linked list
+LPUSH <>
 
 Redis is No SQL in Memory Server
 
