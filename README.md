@@ -36,6 +36,13 @@ Disk will remember the data
 
 Caching is everywhere
 
+Database selection:
+Redis: if we need to in memory data and to be stored in key value pair
+MongoDB/ Couch DB - if the clients have documents for example linkedin and they want to store the information
+Cassandra - if the clients have wide column
+Neo4j - if the client data is graph based for example social website
+
+
 # About Redis
 Redis - NoSQL in Memory Database, it is an open source database that is used to build highly scalable web performant applications. 
 key value store
